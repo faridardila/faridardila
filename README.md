@@ -1,4 +1,8 @@
-## Hi there 👋
+
+- I am currently a student of Systems and Engineering major. I have experience as a software developer in the business automation industry.
+
+
+
 
 <!--
 **faridardila/faridardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
