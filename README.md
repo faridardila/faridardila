@@ -28,7 +28,7 @@ A lo largo de mi trayectoria académica y personal, he cultivado una sólida exp
 
 Aquí en mi perfil de GitHub, te invito a explorar:
 
-* **Proyectos Académicos Destacados:** Implementaciones de conceptos clave de ingeniería, demostrando mi comprensión y aplicación práctica.
+* **Proyectos Académicos Destacados:** Implementaciones de temas vistos a lo largo de mi carrera.
 * **Ejercicios de Programación y Algoritmia:** Soluciones a problemas clásicos y complejos, enfocadas en la eficiencia y la optimización.
 * **Aplicaciones Móviles y de Escritorio:** Desde prototipos hasta aplicaciones funcionales en diversas etapas de desarrollo, mostrando mis habilidades en UI/UX y lógica de negocio.
 
