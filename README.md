@@ -1,15 +1,15 @@
 # 👋 ¡Hola!
 
-Soy Farid Ardila, un estudiante de Ingeniería de Sistemas y Computación, inmerso en el mundo del desarrollo de software, la programación de sistemas y la resolución de retos algorítmicos. Mi enfoque se centra en construir soluciones eficientes y robustas.
+Soy Farid Ardila, un estudiante de Ingeniería de Sistemas y Computación, inmerso en el mundo del desarrollo de software, la programación y resolución de retos algorítmicos. Mi enfoque se centra en construir soluciones eficientes y robustas.
 
-A lo largo de mi trayectoria académica y personal, he cultivado una sólida experiencia en proyectos tanto individuales como en equipo, destacando mi manejo de **C** y **Java**. Mis intereses se extienden a la creación de aplicaciones móviles y sistemas con enfoques variados. Siempre estoy en busca de nuevas oportunidades para aprender, crecer y aplicar mis conocimientos en entornos desafiantes.
+A lo largo de mi trayectoria académica y personal, he cultivado una sólida experiencia en proyectos tanto individuales como en equipo, destacando mi manejo de **C** y **Java**. Mis intereses se extienden a la creación de aplicaciones móviles y sistemas enfocados en diversos campos. Siempre estoy en busca de nuevas oportunidades para aprender, crecer y aplicar mis conocimientos en entornos desafiantes.
 
 ---
 
 ## 🚀 Habilidades 
 
 ### Lenguajes de Programación:
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat-square&logo=kotlin&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnubash&logoColor=white)
