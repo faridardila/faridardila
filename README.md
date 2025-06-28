@@ -12,6 +12,7 @@ A lo largo de mi trayectoria académica y personal, he cultivado una sólida exp
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnubash&logoColor=white)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
 ### Herramientas y Plataformas:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
