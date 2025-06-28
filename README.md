@@ -11,7 +11,6 @@ A lo largo de mi trayectoria académica y personal, he cultivado una sólida exp
 ### Lenguajes de Programación:
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat-square&logo=kotlin&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Herramientas y Plataformas:
