@@ -41,9 +41,22 @@ I am a **Systems and Computing Engineering** student at **Universidad Nacional d
 > **Wholesale Sales management app** | *Java, Android SDK, Android Studio*
 - Native Android app designed for wholesale sales tracking, focused on OOP best practices, efficient runtime execution, and data structures.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridardila&theme=tokyonight" alt="GitHub streak" />
-</p>
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="width: 50%; padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridardila&theme=light&border_radius=10&background=ffffff" alt="GitHub Streak" />
+      </td>
+      <td align="center" style="width: 50%; padding: 10px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=faridardila&langs_count=5&theme=light_github&layout=compact&background=ffffff" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faridardila&langs_count=5&theme=light_github&layout=compact&background=ffffff" alt="Top Languages" style="background: #ffffff;" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
